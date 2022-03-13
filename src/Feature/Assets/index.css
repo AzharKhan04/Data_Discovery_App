@@ -1,0 +1,40 @@
+.assets-root-container {
+    display: flex;
+    padding: 30px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    position: absolute;
+
+
+}
+.assets-pagination-container {
+    text-align: end;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.assets-header-container {
+    text-align: start;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+
+}
+.assets-header-search-container {
+    text-align: end;
+    padding: 12px;
+    display: flex;
+}
+.asset-status-container {
+    top: 20px;
+    float: right;
+    position: absolute;
+    color: rgb(54, 206, 49);
+    margin-left: 12px;
+}
